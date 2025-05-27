@@ -26,6 +26,8 @@
     "@fullcalendar/list": "5.11.0",
     "@fullcalendar/react": "5.11.1",
     "@fullcalendar/timegrid": "5.11.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "animate.css": "4.1.1",
     "apexcharts": "^3.40.0",
     "assert": "^2.1.0",
